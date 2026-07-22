@@ -34,3 +34,5 @@ docker/data/
 
 # Cache
 .cache/
+desktop.ini
+*.code-workspace
