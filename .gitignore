@@ -1,0 +1,36 @@
+# Node
+node_modules/
+.next/
+npm-debug.log*
+
+# Laravel
+vendor/
+.env
+storage/*.key
+bootstrap/cache/*
+public/storage
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# Build
+dist/
+build/
+
+# Database
+*.sqlite
+
+# Docker
+docker/data/
+
+# Cache
+.cache/
